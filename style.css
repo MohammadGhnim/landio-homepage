@@ -207,4 +207,6 @@ ul {
 .latest-news-box .post-thumbnail img:hover {
     transition: 0.3s;
 }
-
+.p-b-130{
+    padding-bottom: 130px;
+}
